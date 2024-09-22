@@ -1,0 +1,12 @@
+{
+  "name": "id-card",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
